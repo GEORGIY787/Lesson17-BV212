@@ -1,1 +1,7 @@
+Class Friend{
+
+striing name;
 Friend();
+
+
+};
